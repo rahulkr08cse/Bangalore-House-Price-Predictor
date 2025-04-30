@@ -1,4 +1,4 @@
-# 🏡 Bangalore House Price Prediction - ML Web App
+# 🏡 Bangalore House Price Predictor - ML Web App
 
 This is a complete end-to-end machine learning web application, **deployed on AWS**, that predicts property prices in Bangalore based on inputs like area (in square feet), number of bedrooms (BHK), bathrooms, and location.
 
