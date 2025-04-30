@@ -2,6 +2,9 @@
 
 This is a machine learning web application that predicts property prices in Bangalore based on area (in square feet), number of bedrooms (BHK), bathrooms, and location.
 
+# Demo Video
+ [Watch the demo] (BHP_Demo.mp4)
+ 
 ## 📌 Features
 - Predict home prices using a trained linear regression model
 - Dynamic frontend using HTML, CSS, and JavaScript
